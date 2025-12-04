@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["exercise-5/src/*"]
+    }
+  },
+  "exclude": ["exercise-5/node_modules", "dist"]
+}
